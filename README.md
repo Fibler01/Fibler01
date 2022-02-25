@@ -1,8 +1,9 @@
 ### Hi there, I'm João 👋
-
-- 💻 I'm on 3rd year of computer science (UNICENTRO)
-- 🤞  looking for an internship
-- 😁 I've already made some projects with angular, laravel, flutter(just one), godot, unreal
+<div align="center">
+- 💻 I'm on 3rd year of computer science (UNICENTRO) <br>
+- 🤞  looking for an internship <br>
+- 😁 I've already made some projects with angular, laravel, flutter(just one), godot, unreal <br>
+</div>
 
 <div align="center">
   <a href="https://github.com/Fibler01">
