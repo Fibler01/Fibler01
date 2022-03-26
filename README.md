@@ -20,8 +20,7 @@
   
   
   
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" 
-       src="https://scontent.fgpb1-1.fna.fbcdn.net/v/t1.6435-9/125960628_297066325355159_4727672802607171117_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFQrX2rnAWUGbq_f3moPS7OPr_m278Fbo0-v-bbvwVujf67Du0U7QtREpeHuw5uNKc4S2hg7eM_l2s-W4Ol4JqI&_nc_ohc=_6WwMJI5tncAX-EmiNj&_nc_ht=scontent.fgpb1-1.fna&oh=00_AT_N9at4YioqgM7v-joVzFGXYk5xGTVp5tXBNbxSBfU8Og&oe=623DDA8C">
+  
 </div>
   
   ##
