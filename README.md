@@ -1,7 +1,6 @@
 ### Hi there, I'm João 👋
 
 - 💻 I'm on 4rd year of computer science (UNICENTRO) <br>
-- 🤞  looking for an internship <br>
 - 😁 I've already made some projects with flutter, angular, ionic, laravel, godot, unreal <br>
 
 
