@@ -1,7 +1,7 @@
 ### Hi there, I'm João 👋
 
 - 💻 I'm on 4rd year of computer science (UNICENTRO) <br>
-- 😁 I've already made some projects with flutter, angular, ionic, laravel, godot, unreal <br>
+- 😁 I've already made some projects with flutter, angular, ionic, laravel, vue godot, unreal <br>
 
 
 <div align="center">
